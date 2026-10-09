@@ -1,0 +1,8 @@
+pandas
+pyarrow
+matplotlib
+scikit-learn
+scipy
+minisom
+mlxtend
+jupyter
