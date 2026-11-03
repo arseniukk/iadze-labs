@@ -1,0 +1,8 @@
+pandas
+matplotlib
+scikit-learn
+scipy
+scikit-fuzzy
+networkx
+pygad
+jupyter
